@@ -7,6 +7,7 @@
 - [Basics](./conspect/basics.md) 
 - [Basic Data Structures](./conspect/basic_data_structures.md)
 - [Date & time](#date--time) (optional)
+- [Design patterns](./conspect/design_patterns/design_patterns_index.md)
 - [Error Handling](./conspect/ErrorHandling/error_handling.md) 
 - [Events Basics](#events-basics) 
 - [Events Propagation / Preventing](./conspect/events_propagation_preventing.md) 
