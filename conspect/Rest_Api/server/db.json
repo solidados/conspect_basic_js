@@ -6,5 +6,12 @@
       "salary": 2000,
       "active": true
     }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "emplyeeId": 1,
+      "message": "Hello world"
+    }
   ]
 }

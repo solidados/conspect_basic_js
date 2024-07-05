@@ -26,3 +26,29 @@ for (const i of arr) {
   i += 1
 }
  */
+
+// const obj = {a: 'Pasha'};
+// const obj2 = {b: true};
+// const obj3 = {
+//   c: 'Hello',
+//   greet () {
+//     console.log(`${this.c}, ${this.a}`);
+//   }
+// };
+//
+// const objCopy = Object.assign({}, obj, obj2, obj3)
+// objCopy.greet()
+
+let browserType = 'mozilla';
+console.log(browserType.indexOf('ll'))
+// const j = 'rocks'
+// const s = 'sknpgskazlwqrwq'
+// console.log(s.split('').filter(char => char === 'rocks').length)
+
+// console.log(s.split('').filter(c => j.includes(c)).join(''))
+// const findValuableRocks = () => {
+//   const sArr = s.split('');
+// return sArr.filter(char => j.includes(char)).join('').length
+// }
+
+// console.log(findValuableRocks(s))
